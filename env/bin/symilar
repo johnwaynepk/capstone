@@ -1,4 +1,6 @@
-#!/Users/jingwei/Dropbox/class-demos/FSND/projects/capstone/starter/env/bin/python3
+#!/bin/sh
+'''exec' "/Users/jl/Dropbox (Personal)/class-demos/FSND/projects/capstone/starter/env/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
